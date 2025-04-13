@@ -10,6 +10,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        btn: "#846a61",
+        btn_hover: "#53423c",
+      },
+      screens: {
+        w1536: "1536px",
+        w1280: "1280px",
+        "3xl": "2000px",
       },
     },
   },
