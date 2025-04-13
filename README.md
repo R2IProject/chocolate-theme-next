@@ -5,10 +5,12 @@ This website is designed to showcase our handcrafted chocolates with elegance an
 
 ## 🌟 Features
 
-- 🍬 Beautiful, responsive design
+~ Coming Soon ~
+
+<!-- - 🍬 Beautiful, responsive design
 - 🛒 Product showcase & smooth browsing experience
 - 💖 Tailored for chocolate lovers and sweet tooths
-- 🎨 Powered by Tailwind CSS for sleek, custom styling
+- 🎨 Powered by Tailwind CSS for sleek, custom styling -->
 
 ## 💻 Tech Stack
 
@@ -33,7 +35,7 @@ Because every chocolate deserves a beautiful home online. 🍫💻
 
 [🔗 View Website](https://your-live-site-url.com)
 
---- --> -->
+--- -->
 
 ## 📬 Contact
 
