@@ -1,40 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🍫 WreChoco – Where Every Bite is Bliss
 
-## Getting Started
+Welcome to **WreChoco**, a premium chocolate brand crafted for true indulgence.  
+This website is designed to showcase our handcrafted chocolates with elegance and delight.
 
-First, run the development server:
+## 🌟 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🍬 Beautiful, responsive design
+- 🛒 Product showcase & smooth browsing experience
+- 💖 Tailored for chocolate lovers and sweet tooths
+- 🎨 Powered by Tailwind CSS for sleek, custom styling
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Tech Stack
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- **Next.js** – for a modern and fast frontend
+- **Tailwind CSS** – for clean, utility-first styling
+- **JavaScript** – with a sprinkle of magic ✨
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<!-- ## 📸 Sneak Peek
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+> _“Crafted with love. Devoured with joy.”_
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Chocolate Screenshot](https://your-image-link.com/screenshot.png) <!-- optional image -->
 
-## Learn More
+<!-- ## 🧑‍🍳 Built With Love
 
-To learn more about Next.js, take a look at the following resources:
+Designed with passion and a sweet tooth by [Your Name or Brand Name].
+Because every chocolate deserves a beautiful home online. 🍫💻
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+--- -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<!-- ## 🚀 Live Demo
 
-## Deploy on Vercel
+[🔗 View Website](https://your-live-site-url.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+--- --> -->
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## 📬 Contact
+
+Feel free to connect or drop a suggestion!  
+📧 afrili.rizki907@gmail.com
+
+<!-- 📸 [@yourInstagramHandle](https://instagram.com/yourInstagramHandle) -->
